@@ -57,6 +57,7 @@
   },
   "default_locale": "en-US",
   "icons": {
-    "128": "/style/icons/Blank.png"
+    "128": "/style/icons/Pian.png"
   }
+  "orientation": "landscape"
 }
