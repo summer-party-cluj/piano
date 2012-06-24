@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Version 7ef500d9d8c52339791b637406e64fe5
+index.html
+locale/pian.properties
+
+manifest.webapp
+style/icons/60/Pian.png
+style/icons/Pian.png
+style/pian.css
+http://gaiamobile.org:8080/webapi.js
+NETWORK:
+http://*
+https://*

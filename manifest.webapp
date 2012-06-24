@@ -1,0 +1,27 @@
+{
+  "name": "Piano",
+  "description": "Piano app for Gaia",
+  "launch_path": "/",
+  "developer": {
+    "name": "Radu",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": [
+    "power",
+    "mozApps"
+  ],
+  "locales": {
+
+    "en-US": {
+      "name": "Piano",
+      "description": "Piano app for Gaia"
+    },
+    
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "120": "/style/icons/Pian.png",
+    "60": "/style/icons/60/Pian.png"
+  },
+  "orientation": "portrait-primary"
+}
