@@ -1,27 +1,62 @@
 {
   "name": "Piano",
-  "description": "Piano app for Gaia",
+  "description": "Web app Piano",
   "launch_path": "/",
   "developer": {
-    "name": "Radu",
+    "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
   },
   "permissions": [
-    "power",
-    "mozApps"
+
   ],
   "locales": {
-
+    "ar": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "de": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "el": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
     "en-US": {
       "name": "Piano",
-      "description": "Piano app for Gaia"
+      "description": "Web app Piano"
     },
-    
+    "es": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "fr": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "it": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "pt-BR": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "ru": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "tr": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    },
+    "zh-TW": {
+      "name": "Piano",
+      "description": "Web app Piano"
+    }
   },
   "default_locale": "en-US",
   "icons": {
-    "120": "/style/icons/Pian.png",
-    "60": "/style/icons/60/Pian.png"
-  },
-  "orientation": "portrait-primary"
+    "128": "/style/icons/Blank.png"
+  }
 }
